@@ -31,7 +31,7 @@ export default function Home() {
               <p className="text-blue-100 max-w-md">Оновлений цифровий простір Київського Національного Економічного Університету.</p>
            </div>
            <Link href="/news" className="relative z-10 bg-white text-blue-900 px-6 py-3 rounded-full font-semibold w-fit mt-6 hover:bg-blue-50 transition inline-block">
-             Вступна кампанія 2024
+             Вступна кампанія 2025
            </Link>
         </div>
 
@@ -88,7 +88,7 @@ export default function Home() {
       </div>
       
       <footer className="max-w-6xl mx-auto mt-20 py-8 text-center text-gray-500 text-sm border-t border-white/10">
-         <p>© 2024 КНЕУ NextGen Pet Project. <br/>Designed with UI/UX & DevOps principles.</p>
+         <p>© 2025 КНЕУ NextGen Pet Project. <br/>Designed with UI/UX & DevOps principles.</p>
       </footer>
     </main>
   );
